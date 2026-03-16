@@ -1,0 +1,227 @@
+# KeepWise Support
+
+Welcome to KeepWise support! We're here to help you get the most out of your expense tracking experience.
+
+## Quick Links
+
+- 📱 **App Store:** [KeepWise on App Store](#)
+- 🐛 **Report Issues:** [GitHub Issues](https://github.com/[your-username]/KeepWise/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/[your-username]/KeepWise/discussions)
+- 📧 **Email:** [your-email@example.com]
+
+---
+
+## Getting Help
+
+### 1. Check the FAQ
+
+Before reporting an issue, please check our [Frequently Asked Questions](#faq) below.
+
+### 2. Report a Bug
+
+Found a bug? Help us improve KeepWise!
+
+**[Report Bug on GitHub →](https://github.com/[your-username]/KeepWise/issues/new?template=bug_report.md)**
+
+When reporting a bug, please include:
+- iOS version
+- Device model (iPhone 12, iPhone 15 Pro, etc.)
+- Steps to reproduce the issue
+- Expected behavior
+- Actual behavior
+- Screenshots (if applicable)
+
+### 3. Request a Feature
+
+Have an idea for a new feature?
+
+**[Request Feature on GitHub →](https://github.com/[your-username]/KeepWise/issues/new?template=feature_request.md)**
+
+Tell us:
+- What feature you'd like to see
+- Why it would be useful
+- How you envision it working
+
+### 4. Ask Questions
+
+Need help using the app?
+
+**[Ask on GitHub Discussions →](https://github.com/[your-username]/KeepWise/discussions)**
+
+---
+
+## FAQ
+
+### General Questions
+
+**Q: Is KeepWise free?**  
+A: Yes, KeepWise is completely free with no in-app purchases or subscriptions.
+
+**Q: Does KeepWise require internet connection?**  
+A: No, KeepWise works 100% offline. No internet connection is required or used.
+
+**Q: Is my data safe?**  
+A: Yes! All your data is stored locally on your device with AES-256 encryption. We never collect or transmit your data.
+
+**Q: Can I sync my data across devices?**  
+A: Currently, KeepWise does not support cloud sync. All data is stored locally on your device for maximum privacy.
+
+### Using the App
+
+**Q: How do I set up my PIN?**  
+A: When you first open KeepWise, you'll be prompted to create a 6-digit PIN. Enter it twice to confirm.
+
+**Q: I forgot my PIN. How can I reset it?**  
+A: Unfortunately, for security reasons, there's no way to recover a forgotten PIN. You'll need to reinstall the app, which will clear all data and allow you to set a new PIN.
+
+**Q: How do I add a transaction?**  
+A: 
+1. Tap the **+** button on the home screen
+2. Select a category
+3. Enter the amount
+4. Add an optional description
+5. Select the date
+6. Tap **Save**
+
+**Q: Can I edit or delete transactions?**  
+A: Yes! Tap any transaction to view details, then tap **Edit** to modify it or **Delete** to remove it.
+
+**Q: How do I change the default currency?**  
+A: Go to **Settings** → **Default Currency** and select your preferred currency.
+
+**Q: Can I export my data?**  
+A: Yes! Go to **Settings** → **Export Data** to save your transactions as a CSV file.
+
+**Q: What currencies are supported?**  
+A: KeepWise supports 10 currencies: SGD, USD, EUR, GBP, JPY, CNY, MYR, THB, AUD, and CAD.
+
+### Troubleshooting
+
+**Q: The app won't open / crashes on launch**  
+A: Try these steps:
+1. Force close the app
+2. Restart your device
+3. Update to the latest iOS version
+4. Reinstall the app (note: this will delete all data)
+
+**Q: My transactions disappeared**  
+A: This shouldn't happen as data is stored locally. If it does:
+1. Check if you're using the correct PIN
+2. Ensure you haven't cleared app data
+3. Report the issue on GitHub with details
+
+**Q: Face ID / Touch ID not working**  
+A: Currently, KeepWise uses PIN authentication only. Biometric authentication is planned for a future update.
+
+**Q: Can't enter amounts correctly**  
+A: The amount entry uses a calculator-style input:
+- Type digits from right to left
+- Always shows 2 decimal places
+- Example: Type "1234" to get "12.34"
+
+**Q: Date picker not showing**  
+A: Make sure you've selected the "Custom" date option to see the date picker.
+
+### Data & Privacy
+
+**Q: Where is my data stored?**  
+A: All data is stored locally on your device using iOS secure storage (Keychain and AsyncStorage).
+
+**Q: Can you access my data?**  
+A: No, we cannot access your data. It never leaves your device.
+
+**Q: What happens if I uninstall the app?**  
+A: All your data will be permanently deleted. Make sure to export your data first if you want to keep it.
+
+**Q: Is my data encrypted?**  
+A: Yes, your PIN is encrypted using AES-256 encryption, and encryption keys are stored in iOS Keychain.
+
+---
+
+## Contact Support
+
+### GitHub Issues (Recommended)
+The fastest way to get help is through GitHub Issues:
+
+**[Open an Issue →](https://github.com/[your-username]/KeepWise/issues)**
+
+Benefits:
+- ✅ Track issue status
+- ✅ Get updates via email
+- ✅ Help other users with similar issues
+- ✅ Contribute to app improvement
+
+### Email Support
+For private inquiries:
+
+**Email:** [your-email@example.com]
+
+Please include:
+- Your iOS version
+- Device model
+- Detailed description of the issue
+- Screenshots (if applicable)
+
+**Response Time:** We aim to respond within 48 hours.
+
+---
+
+## Contributing
+
+KeepWise is open source! We welcome contributions:
+
+- 🐛 **Bug Reports:** Help us find and fix issues
+- 💡 **Feature Requests:** Suggest new features
+- 📝 **Documentation:** Improve our docs
+- 💻 **Code:** Submit pull requests
+
+**[View on GitHub →](https://github.com/[your-username]/KeepWise)**
+
+---
+
+## Version Information
+
+**Current Version:** 1.0.0  
+**Last Updated:** March 16, 2026  
+**Minimum iOS:** 12.0  
+**Supported Devices:** iPhone, iPad
+
+---
+
+## Useful Resources
+
+- 📖 [User Guide](README.md)
+- 🔒 [Privacy Policy](PRIVACY_POLICY.md)
+- 🚀 [Quick Start Guide](QUICKSTART.md)
+- 🛠️ [Troubleshooting Guide](TROUBLESHOOTING.md)
+
+---
+
+## Stay Updated
+
+- ⭐ Star us on [GitHub](https://github.com/[your-username]/KeepWise)
+- 👀 Watch for updates
+- 📱 Enable App Store automatic updates
+
+---
+
+## Feedback
+
+We love hearing from our users! Your feedback helps us improve KeepWise.
+
+**Ways to provide feedback:**
+- 📝 Leave an App Store review
+- 💬 Start a discussion on GitHub
+- 📧 Send us an email
+- 🐛 Report bugs and issues
+
+---
+
+**Thank you for using KeepWise!**
+
+*Your expenses, your device, your privacy.*
+
+---
+
+**Last Updated:** March 16, 2026  
+**Support Version:** 1.0
