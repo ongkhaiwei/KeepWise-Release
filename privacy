@@ -1,0 +1,218 @@
+# Privacy Policy for KeepWise
+
+**Last Updated: March 16, 2026**
+
+## Introduction
+
+KeepWise ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our expense tracking application.
+
+## Our Privacy Commitment
+
+**KeepWise is a 100% offline, privacy-first application. We do NOT collect, transmit, or share any of your personal data.**
+
+## Information We Do NOT Collect
+
+- ❌ No personal information
+- ❌ No financial data transmission
+- ❌ No usage analytics
+- ❌ No crash reports sent to servers
+- ❌ No advertising identifiers
+- ❌ No location data
+- ❌ No contact information
+- ❌ No device identifiers sent externally
+- ❌ No third-party tracking
+
+## Data Storage
+
+### Local Storage Only
+All your data is stored exclusively on your device using:
+- **iOS Keychain** - For secure PIN storage (encrypted with AES-256)
+- **AsyncStorage** - For transaction data (local device storage)
+- **Device Secure Storage** - For encryption keys
+
+### What Data is Stored Locally
+The following information is stored ONLY on your device:
+1. **PIN** - Your 6-digit authentication PIN (encrypted)
+2. **Transactions** - Your expense records including:
+   - Amount
+   - Currency
+   - Category
+   - Date
+   - Optional description/notes
+3. **Settings** - Your app preferences:
+   - Default currency
+   - App configuration
+
+### Data Security
+- All sensitive data is encrypted using AES-256 encryption
+- Encryption keys are stored in iOS Keychain (hardware-backed secure storage)
+- PIN is never stored in plain text
+- Data is protected by your device's security features
+
+## Data Access
+
+### Who Can Access Your Data
+- **Only You** - Your data is accessible only on your device
+- **No Remote Access** - We cannot access your data
+- **No Cloud Sync** - Data never leaves your device
+- **No Backups to Our Servers** - We don't have servers
+
+### Device Access
+The app requires the following device permissions:
+- **Keychain Access** - To securely store your encrypted PIN
+- **Local Storage** - To save your transaction data on device
+
+The app does NOT require or request:
+- ❌ Internet/Network access
+- ❌ Camera access (permission listed but not used)
+- ❌ Photo library access (permission listed but not used)
+- ❌ Location services
+- ❌ Contacts
+- ❌ Microphone
+
+*Note: Some permissions appear in Info.plist due to React Native dependencies but are not actively used by the app.*
+
+## Data Sharing
+
+**We do NOT share your data with anyone because we never have access to it.**
+
+- No data is transmitted over the internet
+- No data is sold to third parties
+- No data is shared with advertisers
+- No data is used for analytics
+- No data is sent to cloud services
+
+## Data Retention
+
+- **Your Control** - You control all your data
+- **Local Only** - Data remains on your device until you delete it
+- **App Deletion** - Uninstalling the app permanently deletes all data
+- **No Remote Copies** - We don't keep copies of your data
+
+## Data Deletion
+
+You can delete your data at any time:
+1. **Individual Transactions** - Delete any transaction in the app
+2. **All Data** - Use "Clear All Data" in Settings
+3. **Complete Removal** - Uninstall the app to remove all data
+
+## Children's Privacy
+
+KeepWise does not collect any data from anyone, including children under 13. The app can be safely used by users of all ages as it operates entirely offline.
+
+## Third-Party Services
+
+KeepWise does NOT use any third-party services, including:
+- No analytics services (Google Analytics, Firebase, etc.)
+- No advertising networks
+- No crash reporting services
+- No cloud storage services
+- No social media integrations
+- No payment processors
+
+## Encryption
+
+We use industry-standard encryption to protect your data:
+- **AES-256 Encryption** - Military-grade encryption for PIN storage
+- **iOS Keychain** - Hardware-backed secure storage
+- **Device-Specific Keys** - Unique encryption key per device
+- **NIST Compliant** - Follows NIST FIPS 197 standards
+
+## Your Rights
+
+Since all data is stored locally on your device, you have complete control:
+- ✅ **Right to Access** - View all your data in the app
+- ✅ **Right to Modify** - Edit any transaction
+- ✅ **Right to Delete** - Remove any or all data
+- ✅ **Right to Export** - Export data to CSV (feature available in app)
+- ✅ **Right to Portability** - Your data is yours to keep
+
+## Data Breaches
+
+Since we don't collect or store data on servers, there is no risk of:
+- Server breaches
+- Data leaks
+- Unauthorized access to our systems
+- Mass data exposure
+
+Your data security depends entirely on your device security.
+
+## International Users
+
+KeepWise works the same way worldwide:
+- No data crosses borders
+- No data is stored in any country's servers
+- GDPR compliant (no data collection)
+- CCPA compliant (no data sale)
+- Compliant with all privacy regulations
+
+## Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected in:
+- Updated "Last Updated" date
+- App Store update notes
+- In-app notifications (if applicable)
+
+## Contact Information
+
+If you have questions about this Privacy Policy:
+
+**Developer:** [Your Name/Company]  
+**Email:** [Your Email]  
+**Website:** [Your Website] (optional)
+
+## Compliance
+
+KeepWise complies with:
+- ✅ **GDPR** (General Data Protection Regulation)
+- ✅ **CCPA** (California Consumer Privacy Act)
+- ✅ **COPPA** (Children's Online Privacy Protection Act)
+- ✅ **Apple App Store Guidelines**
+- ✅ **iOS Privacy Requirements**
+
+## Technical Details
+
+### Data Collection Summary for App Store
+According to Apple's App Privacy requirements:
+
+**Data Not Collected:**
+- Contact Info: None
+- Health & Fitness: None
+- Financial Info: None (stored locally only)
+- Location: None
+- Sensitive Info: None
+- Contacts: None
+- User Content: None (stored locally only)
+- Browsing History: None
+- Search History: None
+- Identifiers: None
+- Purchases: None
+- Usage Data: None
+- Diagnostics: None
+- Other Data: None
+
+**Data Not Linked to You:**
+- All data stored locally is not linked to your identity
+
+**Data Not Used to Track You:**
+- No tracking across apps or websites
+
+## Summary
+
+**KeepWise is designed with privacy as the top priority:**
+
+1. 🔒 **100% Offline** - No internet connection required or used
+2. 🔐 **Encrypted Storage** - AES-256 encryption for sensitive data
+3. 📱 **Local Only** - All data stays on your device
+4. 🚫 **No Tracking** - Zero analytics or tracking
+5. 🛡️ **Your Control** - Complete ownership of your data
+
+---
+
+**By using KeepWise, you agree to this Privacy Policy.**
+
+For the most current version of this policy, please check the app or our website.
+
+---
+
+*KeepWise - Your expenses, your device, your privacy.*
