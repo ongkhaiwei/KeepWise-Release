@@ -21,7 +21,7 @@ Before reporting an issue, please check our [Frequently Asked Questions](#faq) b
 
 Found a bug? Help us improve KeepWise!
 
-**[Report Bug on GitHub →](https://github.com/[your-username]/KeepWise/issues/new?template=bug_report.md)**
+**[Report Bug on GitHub →](https://github.com/ongkhaiwei/KeepWise-Release/issues/new?template=bug_report.md)**
 
 When reporting a bug, please include:
 - iOS version
@@ -35,7 +35,7 @@ When reporting a bug, please include:
 
 Have an idea for a new feature?
 
-**[Request Feature on GitHub →](https://github.com/[your-username]/KeepWise/issues/new?template=feature_request.md)**
+**[Request Feature on GitHub →](https://github.com/ongkhaiwei/KeepWise-Release/issues/new?template=feature_request.md)**
 
 Tell us:
 - What feature you'd like to see
@@ -46,7 +46,7 @@ Tell us:
 
 Need help using the app?
 
-**[Ask on GitHub Discussions →](https://github.com/[your-username]/KeepWise/discussions)**
+**[Ask on GitHub Discussions →](https://github.com/ongkhaiwei/KeepWise-Release/discussions)**
 
 ---
 
@@ -143,7 +143,7 @@ A: Yes, your PIN is encrypted using AES-256 encryption, and encryption keys are 
 ### GitHub Issues (Recommended)
 The fastest way to get help is through GitHub Issues:
 
-**[Open an Issue →](https://github.com/[your-username]/KeepWise/issues)**
+**[Open an Issue →](https://github.com/ongkhaiwei/KeepWise-Release/issues)**
 
 Benefits:
 - ✅ Track issue status
@@ -154,7 +154,7 @@ Benefits:
 ### Email Support
 For private inquiries:
 
-**Email:** [your-email@example.com]
+**Email:** [appkeepwise@gmail.com]
 
 Please include:
 - Your iOS version
@@ -162,46 +162,7 @@ Please include:
 - Detailed description of the issue
 - Screenshots (if applicable)
 
-**Response Time:** We aim to respond within 48 hours.
-
----
-
-## Contributing
-
-KeepWise is open source! We welcome contributions:
-
-- 🐛 **Bug Reports:** Help us find and fix issues
-- 💡 **Feature Requests:** Suggest new features
-- 📝 **Documentation:** Improve our docs
-- 💻 **Code:** Submit pull requests
-
-**[View on GitHub →](https://github.com/[your-username]/KeepWise)**
-
----
-
-## Version Information
-
-**Current Version:** 1.0.0  
-**Last Updated:** March 16, 2026  
-**Minimum iOS:** 12.0  
-**Supported Devices:** iPhone, iPad
-
----
-
-## Useful Resources
-
-- 📖 [User Guide](README.md)
-- 🔒 [Privacy Policy](PRIVACY_POLICY.md)
-- 🚀 [Quick Start Guide](QUICKSTART.md)
-- 🛠️ [Troubleshooting Guide](TROUBLESHOOTING.md)
-
----
-
-## Stay Updated
-
-- ⭐ Star us on [GitHub](https://github.com/[your-username]/KeepWise)
-- 👀 Watch for updates
-- 📱 Enable App Store automatic updates
+**Response Time:** This is individual project, so we will responde whenever it is possible.
 
 ---
 
